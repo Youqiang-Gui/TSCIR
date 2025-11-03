@@ -22,7 +22,7 @@ in this directory
   + val
  
 
-3. If you put the snow degradation image into the GT image path, you will get snow-rain and snow-haze composite degradation images.
+3. Put the snow degradation image into the GT image path. If you want to obtain the snow-rain composite degraded image, simply turn off the haze rendering. If you want to obtain the snow-haze composite degraded image, turn off the rain rendering.
  
 
 
