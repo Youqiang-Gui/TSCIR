@@ -6,7 +6,7 @@
 3. Use monodepth2 to generate depth maps from GT images to render "haze".
 3. put the two folders at `$project_root/Depth` and `$project_root/Groundtruth`
 
-## 1. Generate Rain Datasets
+## 1. Generate Datasets
 
 1. run the following command in Matlab console: 
 ```
